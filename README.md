@@ -2,7 +2,7 @@
 
 A Data Mining project that aims to find the most popular dishes offered by restaurants in Zomato.
 
-Based on the [Zomato Restaurants Dataset](https://www.kaggle.com/datasets/abhijitdahatonde/zomato-restaurants-dataset).
+Based on the [Zomato Restaurants Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/zomato).
 
 # Setup
 

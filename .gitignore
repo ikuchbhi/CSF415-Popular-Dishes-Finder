@@ -1,2 +1,4 @@
 # Ignore the dataset, as we have already given the Kaggle link to it in the README
 *.csv
+# Pycharm Files
+.idea/
